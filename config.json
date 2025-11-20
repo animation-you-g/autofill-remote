@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.5",
+  "latestVersion": "1.4",
 
-  "blockedVersions": [""],
+  "blockedVersions": ["1.2"],
 
-  "allowedVersions": ["1.5","1.8"],
+  "allowedVersions": ["1.5","1.4"],
 
   "forceUpdate": false,
   "updateMessage": "Please update to the latest version.",
