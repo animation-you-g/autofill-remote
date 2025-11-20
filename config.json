@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.5",
 
-  "blockedVersions": ["1.2"],
+  "blockedVersions": [""],
 
   "allowedVersions": ["1.5","1.8"],
 
